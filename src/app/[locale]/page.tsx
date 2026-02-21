@@ -1,4 +1,4 @@
-import { T, Currency, Num, DateTime, Var } from 'gt-next';
+import { T, Currency, Num, DateTime, Var, Branch } from 'gt-next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Disclaimer from '@/components/Disclaimer';
@@ -143,7 +143,7 @@ export default function Home() {
                   <div>
                     <T>
                       <p className="font-medium">
-                        <Var name="type">{tx.type === 'buy' ? 'Bought' : 'Sold'}</Var>{' '}
+                        <Branch branch={tx.type} buy={<>Bought</>} sell={<>Sold</>} />{' '}
                         <Var name="asset">{tx.asset}</Var>
                       </p>
                       <p className="text-sm text-gray-500 dark:text-gray-400">
