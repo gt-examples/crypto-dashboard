@@ -1,0 +1,192 @@
+{
+  "0f740be16a8f84f6": [
+    {
+      "c": "Panel",
+      "i": 1,
+      "t": "a"
+    },
+    {
+      "c": "Mercados",
+      "i": 2,
+      "t": "a"
+    },
+    {
+      "c": "Aprender",
+      "i": 3,
+      "t": "a"
+    }
+  ],
+  "155cdd4384881066": {
+    "c": [
+      {
+        "i": 2,
+        "k": "amount",
+        "v": "v"
+      },
+      " ",
+      {
+        "i": 3,
+        "k": "symbol",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "36b14684ef181883": [
+    "Esta es una aplicación de ejemplo creada con ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    ". Todos los datos mostrados son ficticios."
+  ],
+  "61c993959cafb4bf": {
+    "c": "Resumen del mercado",
+    "i": 1,
+    "t": "h2"
+  },
+  "67e5bb9fd1fbcb8b": [
+    {
+      "c": [
+        {
+          "i": 2,
+          "k": "type",
+          "v": "v"
+        },
+        " ",
+        {
+          "i": 3,
+          "k": "asset",
+          "v": "v"
+        }
+      ],
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": [
+        {
+          "i": 5,
+          "k": "amount",
+          "v": "v"
+        },
+        " ",
+        {
+          "i": 6,
+          "k": "assetName",
+          "v": "v"
+        }
+      ],
+      "i": 4,
+      "t": "p"
+    }
+  ],
+  "6f1a09f658659948": [
+    {
+      "c": "Activo",
+      "i": 1,
+      "t": "th"
+    },
+    {
+      "c": "Precio",
+      "i": 2,
+      "t": "th"
+    },
+    {
+      "c": "Cambio 24h",
+      "i": 3,
+      "t": "th"
+    },
+    {
+      "c": "Capitalización de mercado",
+      "i": 4,
+      "t": "th"
+    }
+  ],
+  "6f83babc565ce32d": {
+    "c": "Actividad reciente",
+    "i": 1,
+    "t": "h2"
+  },
+  "800eaee7719eca8a": {
+    "c": "Tus activos",
+    "i": 1,
+    "t": "h2"
+  },
+  "8ae510bdc8db0fe9": [
+    {
+      "c": "Valor del portafolio",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": {
+        "i": 3,
+        "k": "_gt_cost_3",
+        "v": "c"
+      },
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": [
+        "+",
+        {
+          "i": 5,
+          "k": "_gt_n_5",
+          "v": "n"
+        },
+        "% (24h)"
+      ],
+      "i": 4,
+      "t": "p"
+    }
+  ],
+  "94a1ea8dfdc8796c": {
+    "c": "CryptoDash",
+    "i": 1,
+    "t": "h1"
+  },
+  "beed3bdb6a45efbf": {
+    "c": [
+      {
+        "c": [
+          "Desarrollado con ",
+          {
+            "c": "General Translation",
+            "i": 3,
+            "t": "a"
+          },
+          " y ",
+          {
+            "c": "Next.js",
+            "i": 4,
+            "t": "a"
+          }
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": "Docs",
+            "i": 6,
+            "t": "a"
+          },
+          {
+            "c": "Source",
+            "i": 7,
+            "t": "a"
+          }
+        ],
+        "i": 5,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  }
+}
